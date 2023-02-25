@@ -1,3 +1,3 @@
 My Name is Ohkar Phyo Aung
 
-(https://github-readme-stats.vercel.app/api?username=ohkar &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=ohkar&theme=radical)
